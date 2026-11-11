@@ -9,7 +9,7 @@
 
 | Nome | Matrícula | Usuário do GitHub |
 | --- | --- | --- |
-|  |  |  |
+| Igor S. Gomes | 2420443 | Iguinho |
 
 ## O cenário
 
